@@ -10,3 +10,6 @@ Random project ideas
 
 # Disk Forensics
 * Reassemble fragmented zip files from file carving, based on published file sizes, CRC-32 checksums, etc. No reason you couldn't do that for other archive formats with similar structures. Implement in Autopsy / file carving utils / separate script ?
+
+# Fuzzing
+* Build corpus from existing bug trackers, wikis, etc.
