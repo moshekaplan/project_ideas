@@ -13,3 +13,6 @@ Random project ideas
 
 # Fuzzing
 * Build corpus from existing bug trackers, wikis, etc.
+
+# Random
+* Generate MP4 subtitles, then add them as a "Comment" metadata in Windows, so they're searchable
