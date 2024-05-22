@@ -26,6 +26,11 @@ Random project ideas
 * https://github.com/hautakan/disobey24
 * https://www.youtube.com/watch?v=tuek6LSPf8E
 * https://unit42.paloaltonetworks.com/dll-hijacking-techniques/#post-132679-_wd51wywrrg8f
+* https://en.wikipedia.org/wiki/Dynamic-link_library#DLL_hijacking
+* https://support.microsoft.com/en-us/topic/secure-loading-of-libraries-to-prevent-dll-preloading-attacks-d41303ec-0748-9211-f317-2edc819682e1
+* https://securityintelligence.com/x-force/hunting-evidence-dll-side-loading-powershell-sysmon/
+* https://www.crowdstrike.com/blog/4-ways-adversaries-hijack-dlls/
+* https://www.upguard.com/blog/dll-hijacking
 
 
 # Random
