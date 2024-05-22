@@ -15,7 +15,7 @@ Random project ideas
 * Build corpus from existing bug trackers, wikis, etc.
 
 # Vulnerability Reseach
-* Find a way to find DLL injection  (sideloading) vulnerabilities **statically**
+## Find a way to find DLL injection  (sideloading) vulnerabilities **statically**
 * https://securityintelligence.com/x-force/hunting-evidence-dll-side-loading-powershell-sysmon/
 * https://www.emsisoft.com/de/blog/43943/what-is-dll-side-loading/
 * https://www.mandiant.com/sites/default/files/2021-09/rpt-dll-sideloading.pdf
@@ -25,6 +25,7 @@ Random project ideas
 * https://posts.bluraven.io/detecting-dll-hijacking-attacks-part-1-bdb354685164
 * https://github.com/hautakan/disobey24
 * https://www.youtube.com/watch?v=tuek6LSPf8E
+* https://unit42.paloaltonetworks.com/dll-hijacking-techniques/#post-132679-_wd51wywrrg8f
 
 
 # Random
